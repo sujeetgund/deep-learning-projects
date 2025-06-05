@@ -1,5 +1,8 @@
 # Extrovert vs Introvert Prediction using Deep Learning
 
+[![Watch Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit)](https://dl-projects-persona-predictor.streamlit.app/)
+
+
 This project is a part of my **deep-learning-projects** repository, where I experiment with small deep learning tasks. In this project, I built a binary classification model to detect if a person is an extrovert or introvert based on behavioral data.
 
 
@@ -54,13 +57,13 @@ The model is a simple **fully-connected neural network** built using **TensorFlo
 
 **Training was early stopped after epoch 52, with model weights restored from the best epoch (47).**
 
-**Best Training Accuracy:** 92.62%
-**Best Validation Accuracy:** 92.44%  
+* **Best Training Accuracy:** 92.62%
+* **Best Validation Accuracy:** 92.44%  
 
 The following plots provide additional insights:
 
 - **Correlation Matrix:**  
-  <img src="assets/correlation_matrix.png" height=480>
+  <img src="assets/correlation_matrix.png" width=640>
 
 - **Model Accuracy over Epochs:**  
   ![Model Accuracy](assets/model_accuracy.png)

@@ -1,5 +1,7 @@
 # 🧠 Deep Learning Journey
 
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+
 Welcome to my personal collection of deep learning adventures! This repository is where I explore, experiment, and sometimes struggle with the fascinating world of neural networks and AI.
 
 ## 🎯 About This Repository
@@ -13,6 +15,7 @@ Each project is self-contained with detailed documentation, making it easy to un
 deep-learning-projects/
 ├── project-folder/
 │   ├── README.md            # Detailed project documentation
+│   ├── app.py               # Streamlit app
 │   ├── notebooks/           # Jupyter notebooks with experiments
 │   ├── assets/              # Related images, or docs
 │   ├── data/                # Datasets and schema related files
@@ -30,6 +33,7 @@ Most projects here rely on these amazing tools that make deep learning accessibl
 - **scikit-learn** - For all the ML fundamentals
 - **matplotlib & seaborn** - Making data beautiful and understandable
 - **Jupyter Notebooks** - Where ideas come to life
+- **Streamlit** - To Turn models into interactive web apps
 
 ## 🚀 Getting Started
 
